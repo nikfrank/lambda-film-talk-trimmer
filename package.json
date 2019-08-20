@@ -1,0 +1,12 @@
+{
+  "name": "lambda-film-talk-trimmer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "MODE=LOCAL node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
